@@ -1,4 +1,4 @@
-# 🛡️ ShadowGuard - Advanced System Integrity Monitor
+# ShadowGuard - Advanced System Integrity Monitor
 
 A cross-platform security monitoring tool that provides real-time file integrity monitoring, process anomaly detection, and automated threat response.
 
