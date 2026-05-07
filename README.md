@@ -2,7 +2,7 @@
 
 A cross-platform security monitoring tool that provides real-time file integrity monitoring, process anomaly detection, and automated threat response.
 
-<h3>Features</h3>
+### Features
 
 - **File Integrity Monitoring (FIM)**: Real-time cryptographic hash verification
 - **Process Anomaly Detection**: Baseline behavior analysis and suspicious process detection
@@ -22,7 +22,7 @@ A cross-platform security monitoring tool that provides real-time file integrity
 ```cmd
 cd windows
 install.bat
-
+```
 ### Linux
 bash
 cd linux
